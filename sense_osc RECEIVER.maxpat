@@ -587,7 +587,6 @@
 					"outlettype" : [ "" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 267.0, 420.884644, 18.0, 66.0 ],
-					"presentation_rect" : [ 268.0, 420.884644, 0.0, 0.0 ],
 					"size" : 4,
 					"style" : "",
 					"value" : 3
@@ -603,7 +602,6 @@
 					"outlettype" : [ "", "" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 388.198853, 415.241669, 15.457185, 77.285919 ],
-					"presentation_rect" : [ 389.198853, 415.241669, 0.0, 0.0 ],
 					"setminmax" : [ 0.0, 1000.0 ],
 					"style" : ""
 				}
@@ -618,7 +616,6 @@
 					"outlettype" : [ "", "" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 369.263794, 415.241669, 15.457185, 77.285919 ],
-					"presentation_rect" : [ 370.263794, 415.241669, 0.0, 0.0 ],
 					"setminmax" : [ 0.0, 8192.0 ],
 					"style" : ""
 				}
@@ -634,7 +631,6 @@
 					"outlettype" : [ "int", "int" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 288.5, 415.241669, 77.285919, 77.285919 ],
-					"presentation_rect" : [ 289.5, 415.241669, 0.0, 0.0 ],
 					"rightvalue" : 228,
 					"style" : "",
 					"topvalue" : 0
@@ -652,7 +648,6 @@
 					"outlettype" : [ "", "bang" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 400.340332, 365.778656, 36.0, 17.0 ],
-					"presentation_rect" : [ 401.340332, 365.778656, 0.0, 0.0 ],
 					"style" : ""
 				}
 
@@ -668,7 +663,6 @@
 					"outlettype" : [ "", "bang" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 363.220978, 365.778656, 36.0, 17.0 ],
-					"presentation_rect" : [ 364.220978, 365.778656, 0.0, 0.0 ],
 					"style" : ""
 				}
 
@@ -684,7 +678,6 @@
 					"outlettype" : [ "", "bang" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 326.461548, 365.778656, 36.0, 17.0 ],
-					"presentation_rect" : [ 327.461548, 365.778656, 0.0, 0.0 ],
 					"style" : ""
 				}
 
@@ -700,7 +693,6 @@
 					"outlettype" : [ "", "bang" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 288.5, 365.778656, 36.0, 17.0 ],
-					"presentation_rect" : [ 289.5, 365.778656, 0.0, 0.0 ],
 					"style" : ""
 				}
 
@@ -714,7 +706,6 @@
 					"numoutlets" : 5,
 					"outlettype" : [ "int", "float", "float", "float", "int" ],
 					"patching_rect" : [ 267.0, 312.0, 73.0, 17.0 ],
-					"presentation_rect" : [ 268.0, 312.0, 0.0, 0.0 ],
 					"style" : "",
 					"text" : "unpack 1 1. 1. 1. 1"
 				}
@@ -741,7 +732,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 49.0, 451.884644, 39.0, 18.0 ],
-					"presentation_rect" : [ 545.0, 392.0, 0.0, 0.0 ],
 					"style" : "",
 					"text" : "moved"
 				}
@@ -768,7 +758,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 49.0, 419.884644, 39.0, 18.0 ],
-					"presentation_rect" : [ 555.964478, 366.0, 0.0, 0.0 ],
 					"style" : "",
 					"text" : "invalid"
 				}
@@ -851,7 +840,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 136.0, 75.0, 333.0, 20.0 ],
 					"style" : "",
-					"text" : "<----should match TARGET_PORT in the sensel_contacts.py"
+					"text" : "<----should match TARGET_PORT in the sensel_osc.py"
 				}
 
 			}
@@ -909,7 +898,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 223.340347, 365.778656, 35.551525, 17.0 ],
+					"patching_rect" : [ 223.340347, 365.778656, 36.0, 17.0 ],
 					"style" : ""
 				}
 
@@ -924,7 +913,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 186.220978, 365.778656, 35.551525, 17.0 ],
+					"patching_rect" : [ 186.220978, 365.778656, 36.0, 17.0 ],
 					"style" : ""
 				}
 
@@ -939,7 +928,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 149.461533, 365.778656, 35.551525, 17.0 ],
+					"patching_rect" : [ 149.461533, 365.778656, 36.0, 17.0 ],
 					"style" : ""
 				}
 
@@ -954,7 +943,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 111.5, 365.778656, 35.551525, 17.0 ],
+					"patching_rect" : [ 111.5, 365.778656, 36.0, 17.0 ],
 					"style" : ""
 				}
 
