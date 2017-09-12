@@ -1,4 +1,4 @@
-![](https://media.giphy.com/media/IHUdl83Is6agE/giphy.gif)
+[logo]: https://media.giphy.com/media/IHUdl83Is6agE/giphy.gif
 
 # sensel-osc
 Python script for sending sensel contact info (i.e. contact count, x/y/force/area/state for each contact) to some other application over OSC.  This repo also includes test patches for Max and PureData to receive info.  Please refer to the [Sensel API documentation](http://guide.sensel.com/sensel_h/) for the deatils of "contacts", "state", "force", etc.
