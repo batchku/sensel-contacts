@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/IHUdl83Is6agE/200w_d.gif" align="center">
+<center><img src="https://media.giphy.com/media/IHUdl83Is6agE/200w_d.gif" align="center"></center>
 
 
 # sensel-osc
