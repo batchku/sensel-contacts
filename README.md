@@ -13,13 +13,13 @@ This script requires [pyliblo](http://das.nasophon.de/pyliblo/), which requires 
 
 Here are some hints about installing the prerequirements:
 
-First:
+Dependecies:
 - Cython: use `pip3 install cython`
-- liblo: [download the latest version](http://liblo.sourceforge.net/) and follow the instructions in `INSTALL`; i.e. unzip the download, `cd` into the folder with terminal and then run `./confgireu`, then `make`, then `make install`
+- liblo: [download the latest version](http://liblo.sourceforge.net/) and follow the instructions in `INSTALL`; i.e. unzip the download, `cd` into the folder with terminal and then run `./confgire`, then `make`, then `make install`
 
 
-Then:
-- npyliblo: [download the latest version](http://das.nasophon.de/pyliblo/) and follow the instructions; i.e. unzip the download, `cd` into the folder with terminal, run `./setup.py build` and then `./setup.py install`
+pyloblo:
+- pyliblo: [download the latest version](http://das.nasophon.de/pyliblo/) and follow the instructions; i.e. unzip the download, `cd` into the folder with terminal, run `./setup.py build` and then `./setup.py install`
 
 ## Usage
 - Clone this repo
